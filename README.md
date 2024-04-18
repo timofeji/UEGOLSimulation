@@ -1,1 +1,3 @@
-![]([https://github.com/timofeji/UEGOLSimulation/gif.gif](https://github.com/timofeji/UEGOLSimulation/blob/master/GIF.gif))
+# Conway's game of life in Unreal Engine
+
+![](https://github.com/timofeji/UEGOLSimulation/blob/master/gif.gif)
